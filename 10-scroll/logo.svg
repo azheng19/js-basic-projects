@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="146.25px" height="124.75px" viewBox="0 0 146.25 124.75" enable-background="new 0 0 146.25 124.75" xml:space="preserve">
-<g id="Layer_1">
-	<g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="146.25px" height="124.75px" viewBox="0 0 146.25 124.75" enable-background="new 0 0 146.25 124.75" xml:space="preserve">
+	<g id="Layer_1">
 		<g>
 			<g>
-				<path fill-rule="evenodd" clip-rule="evenodd" d="M55.258,8.646c13.438,0,26.81,0,40.25,0c-0.352,3.805-0.692,7.538-1.04,11.271
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M55.258,8.646c13.438,0,26.81,0,40.25,0c-0.352,3.805-0.692,7.538-1.04,11.271
 					c-0.53,5.688-1.104,11.374-1.568,17.067c-0.1,1.214-0.484,1.885-1.626,2.419c-5.134,2.401-10.222,4.901-15.309,7.401
 					c-0.639,0.314-1.122,0.322-1.767,0.004c-5.266-2.589-10.548-5.146-15.841-7.68c-0.652-0.312-0.948-0.666-1.002-1.42
 					c-0.676-9.366-1.392-18.729-2.094-28.094C55.24,9.338,55.258,9.057,55.258,8.646z M72.251,29.579
@@ -18,21 +14,21 @@
 					c-2.574,1.237-4.916,2.351-7.244,3.492c-0.334,0.164-0.832,0.442-0.857,0.706c-0.1,1.044-0.041,2.103-0.041,3.169
 					c0.285-0.029,0.373-0.017,0.44-0.048c3.122-1.431,6.189-3,9.382-4.249c1.853-0.725,2.649-1.684,2.342-3.673
 					c-0.113-0.738-0.201-1.187-0.964-1.526c-3.432-1.522-6.823-3.132-10.232-4.703c-0.312-0.144-0.643-0.243-1.01-0.38
-					C75.804,22.542,74.062,25.994,72.251,29.579z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" d="M50.332,53.881c-0.445,0.027-0.709,0.057-0.975,0.057
+					C75.804,22.542,74.062,25.994,72.251,29.579z" />
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M50.332,53.881c-0.445,0.027-0.709,0.057-0.975,0.057
 					c-4.158,0.003-8.317,0.022-12.476-0.027c-0.451-0.005-1.107-0.299-1.316-0.662C27.421,39.087,19.317,24.902,11.209,10.72
 					c-0.095-0.166-0.169-0.344-0.317-0.651c13.323,0,26.526,0,39.851,0c0.388,4.081,0.776,8.167,1.177,12.377
-					c-6.487,0-12.869,0-19.559,0C38.411,33.028,44.336,43.392,50.332,53.881z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" d="M97.568,53.94c6.156-10.587,12.192-20.967,18.331-31.522
+					c-6.487,0-12.869,0-19.559,0C38.411,33.028,44.336,43.392,50.332,53.881z" />
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M97.568,53.94c6.156-10.587,12.192-20.967,18.331-31.522
 					c-5.861,0-11.543,0-17.39,0c0.153-1.794,0.282-3.448,0.438-5.099c0.199-2.108,0.479-4.211,0.602-6.324
 					c0.055-0.939,0.349-1.197,1.275-1.191c5.717,0.032,11.434,0.002,17.15-0.005c6.077-0.008,12.154-0.013,18.23-0.019
 					c0.438,0,0.875,0,1.467,0c-0.206,0.417-0.34,0.734-0.512,1.028c-8.171,14.051-16.352,28.097-24.505,42.159
-					c-0.408,0.705-0.825,1.003-1.668,0.995C106.594,53.915,102.199,53.94,97.568,53.94z"/>
+					c-0.408,0.705-0.825,1.003-1.668,0.995C106.594,53.915,102.199,53.94,97.568,53.94z" />
+				</g>
 			</g>
-		</g>
-		<g>
-			<defs>
-				<path id="SVGID_1_" d="M40.815,59.027c-0.402-0.091-0.885-0.137-1.446-0.137c-0.715,0-1.379,0.213-1.994,0.639
+			<g>
+				<defs>
+					<path id="SVGID_1_" d="M40.815,59.027c-0.402-0.091-0.885-0.137-1.446-0.137c-0.715,0-1.379,0.213-1.994,0.639
 					c-0.615,0.425-1.105,1.028-1.47,1.811c-0.364,0.783-0.546,1.683-0.546,2.7c0,0.973,0.174,1.842,0.524,2.608
 					c0.349,0.768,0.828,1.367,1.436,1.801c0.607,0.433,1.291,0.648,2.051,0.648c1.078,0,2.134-0.258,3.167-0.774l1.344,2.644
 					c-0.577,0.334-1.287,0.596-2.13,0.785c-0.843,0.19-1.629,0.285-2.358,0.285c-1.61,0-2.996-0.342-4.158-1.025
@@ -58,13 +54,13 @@
 					c0.698,0,1.496,0.099,2.393,0.296c0.896,0.197,1.641,0.479,2.232,0.843l-1.07,2.461c-0.79-0.243-1.428-0.414-1.914-0.513
 					s-1.018-0.148-1.595-0.148c-0.79,0-1.538,0.194-2.244,0.581c-0.706,0.388-1.275,0.973-1.709,1.755
 					c-0.433,0.782-0.649,1.72-0.649,2.813c0,1.079,0.197,1.997,0.593,2.757c0.395,0.76,0.919,1.333,1.572,1.721
-					c0.652,0.387,1.374,0.58,2.164,0.58c0.531,0,1.146-0.06,1.846-0.182v-3.213H109.793L109.793,65.703z"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_2_)">
-				
+					c0.652,0.387,1.374,0.58,2.164,0.58c0.531,0,1.146-0.06,1.846-0.182v-3.213H109.793L109.793,65.703z" />
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_" overflow="visible" />
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+
 					<image overflow="visible" width="668" height="668" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAbjAAAG7wAABxP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -96,13 +92,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/2gAIAQIAAQUAXJ//2gAIAQMAAQUAXJ//2gAI
-AQEAAQUArkP/2gAIAQICBj8AXJ//2gAIAQMCBj8AXJ//2gAIAQEBBj8AXIf/2Q==" transform="matrix(0.24 0 0 0.24 -6 -25.5)">
-				</image>
+AQEAAQUArkP/2gAIAQICBj8AXJ//2gAIAQMCBj8AXJ//2gAIAQEBBj8AXIf/2Q==" transform="matrix(0.24 0 0 0.24 -6 -25.5)"></image>
+				</g>
 			</g>
-		</g>
-		<g>
-			<defs>
-				<path id="SVGID_3_" d="M39.651,81.436l-0.522-1.489h-2.343l-0.503,1.395h-1.479l2.466-6.449h1.394l2.447,6.373L39.651,81.436
+			<g>
+				<defs>
+					<path id="SVGID_3_" d="M39.651,81.436l-0.522-1.489h-2.343l-0.503,1.395h-1.479l2.466-6.449h1.394l2.447,6.373L39.651,81.436
 					L39.651,81.436z M37.935,76.77l-0.73,2.001h1.489L37.935,76.77L37.935,76.77z M56.61,79.81
 					c-0.247,0.489-0.598,0.867-1.053,1.134c-0.455,0.265-0.99,0.397-1.603,0.397H51.28v-6.449h2.694
 					c0.645,0,1.193,0.136,1.646,0.407c0.452,0.272,0.792,0.646,1.02,1.124s0.341,1.029,0.341,1.655
@@ -119,13 +114,13 @@ AQEAAQUArkP/2gAIAQICBj8AXJ//2gAIAQMCBj8AXJ//2gAIAQEBBj8AXIf/2Q==" transform="mat
 					c-0.67,0-1.247-0.142-1.73-0.427c-0.484-0.284-0.853-0.678-1.105-1.181S95.3,78.783,95.3,78.145
 					c0-0.651,0.136-1.233,0.407-1.745c0.272-0.512,0.651-0.912,1.139-1.2c0.486-0.287,1.043-0.432,1.669-0.432
 					c0.278,0,0.585,0.041,0.92,0.124c0.336,0.082,0.63,0.198,0.883,0.351l-0.446,1.024C99.53,76.159,99.275,76.086,99.107,76.048
-					L99.107,76.048z M113.302,76.058v5.283h-1.489v-5.283h-1.926v-1.166h5.369l0.181,1.166H113.302L113.302,76.058z"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_3_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_4_)">
-				
+					L99.107,76.048z M113.302,76.058v5.283h-1.489v-5.283h-1.926v-1.166h5.369l0.181,1.166H113.302L113.302,76.058z" />
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_" overflow="visible" />
+				</clipPath>
+				<g clip-path="url(#SVGID_4_)">
+
 					<image overflow="visible" width="668" height="668" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAcHAAAHEwAABzf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -158,14 +153,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAf/2gAIAQIAAQUAXJ//2gAIAQMAAQUAXJ//2gAIAQEAAQUArkP/2gAIAQICBj8AXJ//
-2gAIAQMCBj8AXJ//2gAIAQEBBj8AXIf/2Q==" transform="matrix(0.24 0 0 0.24 -6 -25.5)">
-				</image>
+2gAIAQMCBj8AXJ//2gAIAQEBBj8AXIf/2Q==" transform="matrix(0.24 0 0 0.24 -6 -25.5)"></image>
+				</g>
 			</g>
 		</g>
 	</g>
-</g>
-<g id="Layer_2">
-	<polygon fill-rule="evenodd" clip-rule="evenodd" points="54.221,84.481 68.528,84.481 73.771,93.393 79.5,84.481 93.468,84.481 
-		73.682,118.497 	"/>
-</g>
+	<g id="Layer_2">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="54.221,84.481 68.528,84.481 73.771,93.393 79.5,84.481 93.468,84.481 
+		73.682,118.497 	" />
+	</g>
 </svg>
